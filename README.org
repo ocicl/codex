@@ -1,0 +1,10 @@
+* codex
+
+Build beautiful documentation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/CommonDoc/codex.git   |
+| commit  | f591d1e  |
+| systems | codex |
+|---------+-------------------------------------------|
+
