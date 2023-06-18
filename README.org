@@ -2,9 +2,8 @@
 
 Build beautiful documentation
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/CommonDoc/codex.git   |
-| commit  | f591d1e  |
-| systems | codex |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/CommonDoc/codex.git |
+| commit  | 0185eba                                    |
+| systems | codex                                      |
+|---------+--------------------------------------------|
