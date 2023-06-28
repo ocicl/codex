@@ -4,6 +4,6 @@ Build beautiful documentation
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/CommonDoc/codex.git |
-| commit  | 0185eba                                    |
+| commit  | 98034e3                                    |
 | systems | codex                                      |
 |---------+--------------------------------------------|
